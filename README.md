@@ -83,4 +83,5 @@ The model successfully classifies soil types with high accuracy, demonstrating t
 ---
 
 ## 👩‍💻 Author
-Your Name
+Sriya Ellapu
+
